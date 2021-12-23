@@ -14,6 +14,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://medium.com/@kesen.somar.99/how-to-teach-your-kid-coding-a016e123f512" target="blank"> <p>How to teach coding for kids</p> </a>
+<a href="https://medium.com/@kesen.somar.99/how-to-make-your-kid-a-programming-lover-98ebf44a9fc" target="blank"> <p>How to make your kid a programming lover?</p> </a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
