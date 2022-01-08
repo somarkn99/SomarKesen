@@ -14,6 +14,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://medium.com/@kesen.somar.99/how-your-website-will-be-looked-at-on-social-media-8a3b3e1616cf" target="blank"> <p>How your website will be looked at on social media?
+</p> </a>
 <a href="https://medium.com/@kesen.somar.99/multiple-users-in-github-for-multiple-projects-a1716e87fa4d" target="blank"> <p>Multiple Users in GitHub for Multiple Projects</p> </a>
 <a href="https://medium.com/@kesen.somar.99/how-to-teach-your-kid-coding-a016e123f512" target="blank"> <p>How to teach coding for kids</p> </a>
 <a href="https://medium.com/@kesen.somar.99/how-to-make-your-kid-a-programming-lover-98ebf44a9fc" target="blank"> <p>How to make your kid a programming lover?</p> </a>
